@@ -56,7 +56,7 @@ def extract_year_shamsi(text):
 You can download the scraper script and a sample output JSON:
 
 [![Download scraper.py](https://img.shields.io/badge/Download-scraper.py-00FFFF?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/SoBiMoqadam/Web_Scraping_WithPython/main/scraper.py)
-[![Download books_finance_all.json](https://img.shields.io/badge/Download-books_finance_all.json-F7DF1E?style=for-the-badge&logo=json&logoColor=black)](https://raw.githubusercontent.com/SoBiMoqadam/Web_Scraping_WithPython/main/books_finance_all.json)
+[![Download books_finance_all.json](https://img.shields.io/badge/Download-books_finance_all.json-F7DF1E?style=for-the-badge&logo=json&logoColor=black)](https://raw.githubusercontent.com/SoBiMoqadam/Web_Scraping/main/books_finance_all.json)
 
 ---
 
