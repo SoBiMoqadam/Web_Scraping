@@ -1,8 +1,12 @@
 # Web Scraping With Python
 
-Hi, this is an automation scraper code sample that uses the **selenium** library and can also use **bs4 (BeautifulSoup)** which is faster.  
-This code extracts the site information specified in the code, including **ISBN, price, and number of pages** of the book.  
-When the extraction is complete, it saves the result in **CSV, JSON, and Excel** files.
+<div align="center">
+<h1 style="color:#00ffff; font-family:monospace;">🤖 Web Scraper Automation</h1>
+<p style="font-family:monospace; font-size:16px; color:#9be7ff;">
+This is an automation scraper that uses <strong>selenium</strong> and optionally <strong>BeautifulSoup (bs4)</strong> for faster extraction.  
+It collects book information such as <strong>ISBN</strong>, <strong>price</strong>, and <strong>number of pages</strong>, and saves it into <strong>CSV</strong>, <strong>JSON</strong>, and <strong>Excel</strong> files 🚀
+</p>
+</div>
 
 ---
 
@@ -47,12 +51,12 @@ def extract_year_shamsi(text):
 
 ---
 
-## Download Files
+## ⬇️ Download Files
 
-You can download the scraper script and a sample output JSON:
-
+<div align="center">
 [![Download scraper.py](https://img.shields.io/badge/Download-scraper.py-00FFFF?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/SoBiMoqadam/Web_Scraping_WithPython/main/scraper.py)
 [![Download sample.json](https://img.shields.io/badge/Download-sample.json-F7DF1E?style=for-the-badge&logo=json&logoColor=black)](https://raw.githubusercontent.com/SoBiMoqadam/Web_Scraping_WithPython/main/sample.json)
+</div>
 
 ---
 
